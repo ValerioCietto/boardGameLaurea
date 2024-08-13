@@ -1,0 +1,2 @@
+# boardGameLaurea
+Laurea The Game.
